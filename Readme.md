@@ -1,18 +1,19 @@
 # Semantics and Refractor Code Accessibility
-# User Story
 
-* AS A marketing agency I WANT a codebase that follows accessibility standards 
+## Description
 
-# Acceptance Criteria
+This project's purpose was to refactor a webpage so that the links are function, CSS selectors/properties are consolidated and sematic and to optimize the code for search engines.
 
-GIVEN a webpage meets accessibility standards
+## Installation
 
-* WHEN I view the source code THEN I find semantic HTML elements
+No installation needed.
 
-* WHEN I view the structure of the HTML elements THEN I find that the elements follow a logical structure independent of styling and positioning
+## Usage
 
-* WHEN I view the image elements THEN I find accessible alt attributes
+This is not a function application. It is for test purpose
 
-* WHEN I view the heading attributes THEN they fall in sequential order
+## Github Link
+https://github.com/alka485/semantic-accessibility.git
 
-* WHEN I view the title element THEN I find a concise, descriptive title
+https://alka485.github.io/semantic-accessibility/
+
